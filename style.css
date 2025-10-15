@@ -1,0 +1,276 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.header{
+    display: flex;
+    text-align: center;
+    background-color: rgb(4, 64, 4);
+    height: 80px;
+    align-items: center;
+    color: aliceblue;
+
+}
+.home {
+    padding-left:100px;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+
+
+}
+
+.live{
+      padding-left: 40px;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+}
+.about{
+      padding-left: 40px;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+}
+.asia{
+      padding-left: 40px;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+
+}
+.livescore{
+       padding-left: 40px;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+
+}
+.search{
+      padding-left: 850px;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    border-top-right-radius: 20px;
+}
+.willcome{
+    align-items: center;
+    color: brown;
+    align-items: center;
+   
+    display: flex;
+    padding-left: 300px;
+    padding: 30px;
+    background-color: rgb(47, 70, 2);
+    height: 150px;
+    width: 1520px;
+
+
+}
+.livematch1{
+    background-color: goldenrod;
+    height: 300px;
+    width: fix;
+    padding-left: 30px;
+    
+   
+    margin: 50px;
+}
+.l1{
+    align-items: center;
+    padding-left: 70px;
+    margin: 50px;
+
+
+}
+.l2{
+     align-items: center;
+    padding-left: 40px;
+    margin: 50px;
+
+
+}
+.l3{
+
+    align-items: center;
+    padding-left: 40px;
+    margin: 50px;
+
+
+}
+.l4{
+     align-items: center;
+    padding-left: 40px;
+    margin: 50px;
+
+  
+}
+.l5{
+    border: fix;
+    color: blue;
+    text-decoration: none;
+    border-radius: 15px;
+    padding-left: 550px;
+
+
+}
+.h1 {
+    
+     color: rgb(255, 0, 111);
+     padding-left: 350px;
+     text-align: center;
+
+
+
+}
+.h2{
+    color: blue;
+     padding-left: 30px;
+    
+      text-align: center;
+      border-color: black;
+      border-radius: 19px;
+     
+}
+.h3
+{
+    color: brown;
+     padding-left: 30px;
+}
+.h4{
+    color: blue;
+     padding-left: 30px;
+}
+.hero{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    
+}
+
+
+
+.net{
+    background-color: rgb(165, 96, 12);
+    border-radius: 10px;
+   align-items: center;
+
+   
+}
+.logo{
+    text-decoration: none;
+    display: flex;
+    color: white;
+    text-align: center;
+    align-items: center;
+}
+.livesports{
+    text-align: center;
+    text-decoration: none;
+    color: blue;
+    border-radius: 9px;
+    height: 3px;
+    align-items: center;
+    
+}
+.footer{
+    display: flex;
+    color: bisque;
+    background-color: black;
+    padding-left: 20pxpx;
+    align-items: center;
+    text-decoration: none;
+    height: 200px;
+   
+}
+.footer1{
+    display: block;
+    padding-left: 50px;
+    color: rgb(218, 185, 142);
+    text-align: center;
+    text-decoration: none;
+    text-align: center;
+}
+.footer2{
+      display: block;
+    padding-left: 50px;
+    color: rgb(218, 185, 142);
+    text-align: center;
+    text-decoration: none;
+
+}
+.footer3{
+
+      display: block;
+    padding-left: 100px;
+    color: rgb(218, 185, 142);
+    text-align: center;
+    text-decoration: none;
+
+  
+}
+footer4{
+      display: block;
+    padding-left: 50px;
+    color: rgb(218, 185, 142);
+    text-align: center;
+    text-decoration: none;
+}
+.copy{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: none;
+    padding-left: 170px;
+}
+.ZOOM{
+    padding-left: 150px;
+
+}
+.heading{
+    background: fixed;
+    background-color: red;
+    color: aliceblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-left: 400px;
+
+
+}
+.LOGIN{
+    color: rgb(164, 3, 129);
+    text-decoration: none;
+
+}
+.pub{
+     background-color: antiquewhite;
+     color: black;
+
+    
+}
+.login{
+    background-color: rgb(226, 28, 61);
+    color: black;
+    text-align: center;
+    align-items: center;
+    padding-left: 630px;
+    margin: 40px;
+
+}
+.from{
+     background-color: rgb(106, 216, 17);
+    color: black;
+    text-align: center;
+    align-items: center;
+    padding-left: px;
+    margin: 40px;
+
+
+}
+.vip{
+    align-items: center;
+    border-radius: 50px;
+    height: 30px;
+    background-color: rgb(16, 204, 13);
+    color: rgb(0, 0, 0);
+    padding-left: 740px;
+}
